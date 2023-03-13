@@ -1,4 +1,4 @@
-# Tabllaue-
+# Tableau-
 
 1. Understanding the Market Segment – How do the segments differ?
 - For each segment, what % of customers in that segment purchase this specific chemical?
